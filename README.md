@@ -49,3 +49,5 @@ We welcome contributions to the Rent My Gear project. To contribute, follow thes
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Jurij testing
